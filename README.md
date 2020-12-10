@@ -1,5 +1,6 @@
 # ECommerce Website Tested With Cucumber
 This is a page object model framework I designed using selenium to automate testing on an e-commerce mock website.
+also for easy understanding of the test nature I have used cucumber and gherkin.
 
 ## Usage
 To use this project you will need:
